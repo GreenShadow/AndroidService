@@ -1,0 +1,5 @@
+E:\c\c#\AndroidService\AndroidService\bin\AndroidService.dll
+E:\c\c#\AndroidService\AndroidService\bin\AndroidService.pdb
+E:\c\c#\AndroidService\AndroidService\obj\Debug\AndroidService.dll
+E:\c\c#\AndroidService\AndroidService\obj\Debug\AndroidService.pdb
+E:\c\c#\AndroidService\AndroidService\obj\Debug\AndroidService.csprojResolveAssemblyReference.cache
